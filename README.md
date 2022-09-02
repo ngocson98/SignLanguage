@@ -2,7 +2,7 @@
 1. Setup
 - Install Mediapipe examples
 - Modify Mediapipe
-After Download, you must look for 3 files in that with the same name in _"modified_mediapipe"_____and replace them.
+After Download, you must look for 3 files in that with the same name in _"modified_mediapipe" and replace them.
 2. Create training data
 - Make folder trainvideo and folder traintxt (empty directory) for each sign language word in 1 folder. Run build.py to get txt and file .mp4 output with hand tracking. You must 100 video per 1 word to train.
 - NOTE: (DO NOT use space, '_' to your folder name)
